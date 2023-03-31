@@ -1,0 +1,1 @@
+﻿SELECT kod, ağırlık, (ağırlık+ağırlık)*0.2 AS ARTRILMIŞ, ad FROM okumalar;

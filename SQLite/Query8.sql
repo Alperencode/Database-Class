@@ -1,0 +1,1 @@
+﻿SELECT kod AS 'Sınav Kodu', ad AS 'Sınav Adı' FROM sınavlar;
