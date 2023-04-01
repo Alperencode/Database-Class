@@ -1,0 +1,1 @@
+﻿SELECT ad FROM sınavlar WHERE süre>= 70; 

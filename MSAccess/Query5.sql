@@ -1,0 +1,1 @@
+﻿SELECT * FROM sınavlar WHERE tarih< #1/1/2009#;

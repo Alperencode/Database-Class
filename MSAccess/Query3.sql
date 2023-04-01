@@ -1,0 +1,1 @@
+﻿SELECT * FROM kullanıcı WHERE ad= 'Erdem'; 

@@ -1,0 +1,1 @@
+﻿SELECT ad FROM kullanıcı WHERE adres= 'Ankara'; 

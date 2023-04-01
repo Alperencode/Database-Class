@@ -1,0 +1,1 @@
+﻿SELECT kod, şifre FROM kullanıcı WHERE adres='Ankara'; 
