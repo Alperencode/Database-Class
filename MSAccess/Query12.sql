@@ -1,0 +1,1 @@
+﻿SELECT kod, açıklama FROM sınavlar WHERE süre NOT IN (60, 90);

@@ -1,0 +1,1 @@
+﻿SELECT * FROM sınavlar WHERE süre BETWEEN 60 AND 90;

@@ -1,0 +1,1 @@
+﻿SELECT şifre, ad, soyad FROM kullanıcı WHERE ad LIKE 'N%';
