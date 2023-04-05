@@ -1,0 +1,1 @@
+﻿SELECT ad, soyad FROM kullanıcı WHERE soyad NOT LIKE '%ıl%';

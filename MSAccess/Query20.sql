@@ -1,0 +1,1 @@
+﻿SELECT * FROM öğrenciSınavları WHERE tdoğru BETWEEN 5 AND 15;
